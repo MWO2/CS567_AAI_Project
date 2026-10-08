@@ -1,0 +1,20 @@
+================================================================================
+DOCUMENT 1: EMAIL THREAD
+From: Dr. Aris Thorne <athorne@university.edu>
+To: Executive Committee <exec-board@studentorg.edu>
+Date: Mon, Oct 12, 2026 at 9:14 AM
+Subject: RE: Leadership Retreat Venue Requirements - READ BEFORE QUOTING
+
+Hi Team,
+
+Following up on our board meeting last Thursday, I want to make sure everyone is crystal clear on our non-negotiables for the upcoming leadership retreat before the AI agent pulls quotes:
+
+1. Budget Cap: Our total allocation from student fees is $5,000.00 max. This must cover venue rental, mandatory tech equipment, and all catering/meal costs for the full day. Do not present options that cross $5,000 even by a dollar—finance will reject the purchase order automatically.
+2. Headcount: We have 60 confirmed participants this year.
+3. Accessibility: As mentioned, Dean Marcus and two of our student officers require full step-free/wheelchair access for all primary sessions and breakout spaces. Please verify this directly in the venue specifications—do not assume "ground floor" means fully accessible if there are gravel steps or narrow doorways.
+4. Travel Distance: We are relying on university vans for transport. Maximum driving time from campus is 45 minutes. Anything further will violate our transportation risk window.
+
+Thanks,
+Dr. Aris Thorne
+Faculty Advisor, Student Leadership Board
+================================================================================
